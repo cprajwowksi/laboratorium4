@@ -23,4 +23,4 @@ jobs:
     - name: Run python application
       run: |
         python test_dotesta.py
-    
+        test_dotesta.py
